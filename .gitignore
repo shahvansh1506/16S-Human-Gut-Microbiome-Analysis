@@ -1,0 +1,17 @@
+.Rhistory
+.RData
+.Rproj.user/
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.sam
+*.sra
+*.zip
+papers/
+raw_data/
+data/raw/
+cutadapt_logs/
+__pycache__/
+.DS_Store
