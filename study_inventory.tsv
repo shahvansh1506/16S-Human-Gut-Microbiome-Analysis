@@ -1,0 +1,7 @@
+owner	project	region	status	note	runs_in_archive	candidate_runs	fastq_GB	review_runs
+Vansh	PRJNA687346	V3-V4	pilot	Settings verified on the three original runs. Review profiles across the full cohort before marking ready.	24	24	0.142626557	0
+Vansh	PRJNA761547	V3-V4	review	Library names distinguish bacterial 16S and fungal ITS. Review actual primer presence and paired read overlap.	322	187	1.052484804	0
+Bhavya	PRJNA604466	V3-V4	review	Two paired runs had no common tested V3-V4 primer matches and reads were about 227/224 nt. Check the primer-free assumption using additional runs.	67	53	0.935607497	0
+Bhavya	PRJNA610672	V3-V4	review	ENA supplies one variable-length FASTQ per run. Two sampled runs contained about 400-430 nt reads without either reported primer at the start, consistent with prior assembly. Verify before a full run.	30	30	0.548679974	0
+Krupa	PRJEB20022	V4	review	Archive identifies 859 subjects and 40 controls. Confirm scope of deposited subject reads before comparing.	899	859	2.840308154	0
+Krupa	PRJNA668251	V3-V4	review	Check deposited layout, primer presence, and paired read overlap.	14	14	0.50665579	0

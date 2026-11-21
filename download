@@ -1,0 +1,36 @@
+# Raw / human-associated sequencing files: fetch authorized public datasets from ENA/NCBI instead
+pilot_input/
+data/
+reference/
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.bai
+*.sam
+*.cram
+*.sra
+
+# Temporary and potentially extensive outputs
+results/preview/
+results/trial/
+results/full/*/trimming_logs/
+trimming_logs/
+*.cutadapt.log
+
+# Papers and local archives: cite originals instead
+Six_Selected_Papers/
+Six_Selected_Papers.zip
+*.zip
+
+# Local R/RStudio session files
+.Rhistory
+.RData
+.Rproj.user/
+.Renviron
+.Rprofile
+
+# Operating system
+.DS_Store
+Thumbs.db
