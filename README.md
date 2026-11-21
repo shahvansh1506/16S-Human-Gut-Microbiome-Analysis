@@ -112,4 +112,4 @@ The original six-study run involved approximately 4.5 GB of compressed input FAS
 
 ## Team attribution and reuse
 
-This project and its archived results were supplied as a three-person team submission. Individual dataset allocations appear in [`studies.tsv`](studies.tsv). Before making the repository public, confirm that all contributors agree on attribution and on publication of the shared scripts and team-generated outputs. No open-source license is assigned here pending that agreement. Third-party papers, taxonomy databases, and public sequence datasets remain subject to their respective terms.
+This project and its archived results were supplied as a three-person team submission. Individual dataset allocations appear in [`studies.tsv`](studies.tsv). All three team members have agreed to publicly share the joint code and team-generated outputs with attribution. No open-source license has been assigned to this repository. Third-party papers, taxonomy databases, and public sequence datasets remain subject to their respective terms.
