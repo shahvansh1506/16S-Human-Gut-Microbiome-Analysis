@@ -1,0 +1,4 @@
+run	sample	batch	input	filtered	inferred	merged	nonchim	bacterial
+SRR13298477	Sample_07	provisional_1	43895	42655	41821	41821	39158	39115
+SRR13298480	Sample_04	provisional_1	40438	39461	38965	38965	38125	38119
+SRR13298496	Sample_02	provisional_1	34270	33508	33096	33096	32724	32721
